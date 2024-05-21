@@ -57,8 +57,8 @@
 
 <!-- Best Repos 시작 -->
 ### 📚 Best Repos
-- ![Preventra](https://github.com/tongticktack/PreVentra_Server) 2020 솔직 챌린지 수상작
-- ![Pickle](https://github.com/SKKU-COOP-PICKLE/server) computer vision 패션 아이템 추천 프로젝트
+- [Preventra](https://github.com/tongticktack/PreVentra_Server) 2020 솔직 챌린지 수상작
+- [Pickle](https://github.com/SKKU-COOP-PICKLE/server) computer vision 패션 아이템 추천 프로젝트
 <!-- Best Repos 끝 -->
 
 <!-- 연락처 시작 -->
