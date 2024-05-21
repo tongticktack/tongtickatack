@@ -20,7 +20,7 @@
   <h3><b> :books: Education </b></h3>
   <h5> ⦁ 성균관대학교 소프트웨어학과 2018.03 - </h5>
 </div>
-</br>  
+</br>
 <!-- 교육사항 끝 -->
 
 <!-- 기술스택 시작 -->
@@ -54,7 +54,10 @@
 </div>
 <!-- https://simpleicons.org/?q=java --></br>
 <!-- 기술블로그 끝 -->
-
+<!-- Best Repos 시작 -->
+### 📚 Best Repos
+- ![Preventra](https://github.com/tongticktack/PreVentra_Server) 2020 솔직 챌린지 수상작
+- ![Pickle](https://github.com/SKKU-COOP-PICKLE/server) computer vision 패션 아이템 추천 프로젝트
 <!-- 연락처 시작 -->
 ### 📫 How to reach me
 - 링크드인: www.linkedin.com/in/geonwook-yu-skku-software
@@ -64,7 +67,7 @@
 </br>
 <h3><b> 🔭 Github Stats </b></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tongticktack&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tongticktack&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongticktack&layout=compact&theme=dracula)](https://github.com/metleeha)
 
       
